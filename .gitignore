@@ -1,0 +1,9 @@
+# Ignorar PDFs generados
+reportes_generados/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
